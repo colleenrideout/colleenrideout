@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @colleenrideout
 - 👀 I’m interested in cognitive science, mystery/sci fi/romance, psychedelics, and metaphysics.
-- 🌱 I’m currently learning java and python. 
 - 📫 DM me here to reach me :)
 
 <!---
